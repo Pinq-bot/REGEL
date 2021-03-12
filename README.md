@@ -1,0 +1,2 @@
+# REGEL
+Nur eine regel
